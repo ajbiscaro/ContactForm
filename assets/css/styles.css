@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+	font-family: arial,tahoma;
+	font-size: 14px;
+}
+
+#wrap {
+	padding: 50px;
+}
+
+#validationMessage {
+	color: #FF0000;
+}
+
+#flashMessage {
+	color: #0000FF;
+}
